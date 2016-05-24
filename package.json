@@ -1,0 +1,27 @@
+{
+  "name": "weixinCapture",
+  "version": "0.1.0",
+  "description": "serve screenshots of webpages",
+  "main": "shoot.js",
+  "dependencies": {
+    "node-phantom-simple": "2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:daimaniu/weixinCapture.git"
+  },
+  "keywords": [
+    "screenshot",
+    "web"
+  ],
+  "author": "keepcleargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daimaniu/weixinCapture/issues"
+  },
+  "homepage": "https://github.com/daimaniu/weixinCapture"
+}
